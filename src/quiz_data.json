@@ -2,15 +2,88 @@
   "quiz_questions": [
     {
       "id": 1,
-      "instruction_text": "How many continents are there on Planet Earth?",
-      "answer_options": ["5", "6", "7", "8"],
-      "answer": "7"
+      "instruction_text": "What year was the first Iron Man movie released, kicking off the Marvel Cinematic Universe?",
+      "answer_options": ["2005", "2008", "2010", "2012"],
+      "answer": "2008"
     },
     {
       "id": 2,
-      "instruction_text": "What's your favorite number?",
-      "answer_options": ["1", "2", "3", "4"],
-      "answer": "4"
+      "instruction_text": "Which Avenger does Thor team up with in Thor: Ragnarok?",
+      "answer_options": ["Hulk", "Hawkeye", "BlackPanther", "IronMan"],
+      "answer": "Hulk"
+    },
+    {
+      "id": 3,
+      "instruction_text": "In which fictional country is Black Panther set?",
+      "answer_options": ["Wakanda", "Latveria", "Genosha", "Uganda"],
+      "answer": "Wakanda"
+    },
+    {
+      "id": 4,
+      "instruction_text": "In which film did Black Widow first appear?",
+      "answer_options": [
+        "Avengers Assemble",
+        "The Incredible Hulk",
+        "Iron Man 2",
+        "Ant Man"
+      ],
+      "answer": "Iron Man 2"
+    },
+    {
+      "id": 5,
+      "instruction_text": "What fictional alien metal gives the Wakandans their power?",
+      "answer_options": [
+        "Adamantium",
+        "Vibranium",
+        "Unobtainium",
+        "Poweranium"
+      ],
+      "answer": "Vibranium"
+    },
+    {
+      "id": 6,
+      "instruction_text": "What is the name of the British agent Cap teams up with in World War II?",
+      "answer_options": [
+        "Liz Allen",
+        "Maria Hill",
+        "Marie Curie",
+        "Peggy Carter"
+      ],
+      "answer": "Peggy Carter"
+    },
+    {
+      "id": 7,
+      "instruction_text": "Which of these is not a member of the Guardians of the Galaxy?",
+      "answer_options": ["Groot", "Ronan", "Star Lord", "Rocket Raccoon"],
+      "answer": "Ronan"
+    },
+    {
+      "id": 8,
+      "instruction_text": "Who is Black Panther’s sister?",
+      "answer_options": ["Shuri", "Nakia", "Ramonda", "Katie"],
+      "answer": "Shuri"
+    },
+    {
+      "id": 9,
+      "instruction_text": "What is Tony Stark’s final line in the first Iron Man (not including post-credits)?",
+      "answer_options": [
+        "Avengers assemble!",
+        "I am Iron Man",
+        "I could do this all day",
+        "Astala Vista, Baby!"
+      ],
+      "answer": "I am Iron Man"
+    },
+    {
+      "id": 10,
+      "instruction_text": "Who is Bucky Barnes better known as?",
+      "answer_options": [
+        "The Red Skull",
+        "Baron Zemo",
+        "The Phenom",
+        "The Winter Soldier"
+      ],
+      "answer": "The Winter Soldier"
     }
   ]
 }
